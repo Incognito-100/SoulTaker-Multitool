@@ -1,5 +1,5 @@
 # SoulTaker-Multitool
-SoulTaker is a Open-Source Multitool written by Xoopppp and modified by me to make it a bit more up to date contains a lot of things such as a phone spoofer, ip lookup, dox tool etc. In the pswd file, is the password to decrypt the .rar file. Enjoy! :)
+SoulTaker is a Open-Source Multitool written by Xoopppp and modified by me to make it a bit more up to date contains a lot of things such as a phone spoofer, ip lookup, dox tool etc.
 
 aditional creddits 
 https://github.com/Lucksi/Mr.Holmes

@@ -16,7 +16,7 @@ if '%action%'=='7' goto fakenamegenerator
 if '%action%'=='8' goto phishingpages
 if '%action%'=='9' goto extremedox
 if '%action%'=='10' goto rat
-if '%action%'=='11' goto keyword
+if '%action%'=='11' goto keywords
 if '%action%'=='12' goto vpn
 if '%action%'=='13' goto cyberhub
 if '%action%'=='14' goto vedbex

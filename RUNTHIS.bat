@@ -56,7 +56,8 @@ goto menu
 
 :putty
 @echo off & cls
-start %cd%\PROGRAMS\putty.exe
+echo will find somting better later
+::start %cd%\PROGRAMS\putty.exe
 goto menu
 
 :doxtool
@@ -76,7 +77,7 @@ goto menu
 
 :extremedox
 @echo off &  cls
-explorer "https://anonfiles.com/t2h4A025n9"
+::explorer "https://anonfiles.com/t2h4A025n9"
 goto menu
 
 :rat

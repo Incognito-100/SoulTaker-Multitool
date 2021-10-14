@@ -51,7 +51,7 @@ goto menu
 
 :portscanner
 @echo off & cls
-start %cd%\PROGRAMS\naabu.exe -h
+start %cd%\PROGRAMS\naabu.exe
 goto menu
 
 :putty
@@ -72,7 +72,8 @@ goto menu
 
 :phishingpages
 @echo off & cls
-explorer %cd%\PROGRAMS\PHISHING
+echo will replace maybe
+::explorer %cd%\PROGRAMS\PHISHING
 goto menu
 
 :extremedox

@@ -14,7 +14,7 @@
                 |    |:::||             //'///                    `.\        
                 |    |:::||            //  ||'                      `|       4. Port Scanner                              19. Rat Tutorial
                 /    |:::|/        _,-//\  ||                             
-               /`    |:::|`-,__,-'`  |/  \ ||                                5. Open Putty(disabeld)                                20. Sick Fonts (Text etc.)
+               /`    |:::|`-,__,-'`  |/  \ ||                                5. Open Putty(disabeld)                      20. Sick Fonts (Text etc.)
              /`  |   |'' ||           \   |||                            
            /`    \   |   ||            |  /||                                6. Dox Tool                                  21. Phone Spoofer (SSL)
          |`       |  |   |)            \ | ||                        

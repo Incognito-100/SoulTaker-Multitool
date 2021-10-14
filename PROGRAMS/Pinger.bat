@@ -1,5 +1,5 @@
 @echo off
-title DaFuckPinger ~ discord: Dasherr#4878
+title Pinger ~ discord: Dasherr#4878
 cls
 color fc                                            
 echo ######################################## 

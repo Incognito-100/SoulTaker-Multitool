@@ -42,6 +42,7 @@ goto menu
 :booter
 @echo off & cls
 explorer "https://www.stressthem.to/"
+explorer "https://https://quez.in/"
 goto menu
 
 :iplookup

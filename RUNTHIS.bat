@@ -164,6 +164,7 @@ goto menu
 :rickroll
 @echo off & cls
 explorer "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+echo hahahahahahahahahaha
 goto menu
 
 :exit

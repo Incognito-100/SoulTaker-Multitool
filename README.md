@@ -27,7 +27,7 @@ It contains:
 15. Ascii art
 16. Random IP generator
 17. Steam account generator
-18. Minecraft & Spotify generator
+18. Minecraft & Spotify generator better off buying the account if im honest
 19. Rat tutorial
 20. Sick fonts (text etc.)
 21. Phone spoofer (ssl)
@@ -35,5 +35,5 @@ It contains:
 23. Ip-Logger
 24. Botting panel (All socials)
 25. Instagram ID searcher
-26. Fortnite Aimbot/Wallhack
+26. Fortnite Aimbot/Wallhack dost contain that 
 27. EXIT 

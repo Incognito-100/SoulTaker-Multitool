@@ -6,4 +6,4 @@
 
 4. open the folder you put on the desktop
 
-5 Run the 'RUNTHIS' file, and enjoy :D
+5 Run the 'RUNTHIS.bat' file, and enjoy :D
